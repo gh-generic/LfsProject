@@ -1,4 +1,4 @@
-$NumArray = (1..100)
+$NumArray = (101..1000)
 
 ForEach
 
